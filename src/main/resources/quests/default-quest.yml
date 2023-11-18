@@ -1,0 +1,12 @@
+id: default-quest
+name: Default Quest
+description: "Kill 1 pig for reward"
+quest:
+  type: KILL_ENTITY
+  objective: PIG
+  amount: 1
+rewards:
+  items:
+  - IRON_PICKAXE    # Defaults to 1 if no amount is provided
+  - IRON:2
+  - DIAMOND:5
