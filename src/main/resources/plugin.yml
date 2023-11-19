@@ -1,8 +1,8 @@
 name: ServerQuest
 main: ${project.groupId}.ServerQuestMain
-version: ${project.version}
-website: ${project.url}
-api-version: 1.20
+version: '${project.version}'
+website: '${project.url}'
+api-version: '1.20'
 authors:
   - knighthat
-prefix: ${project.name}
+prefix: '${project.name}'
