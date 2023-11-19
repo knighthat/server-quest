@@ -1,4 +1,4 @@
-name: ${project.name}
+name: ServerQuest
 main: ${project.groupId}.ServerQuestMain
 version: ${project.version}
 website: ${project.url}
